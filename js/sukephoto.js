@@ -1,4 +1,4 @@
-function sukesyasin(){
+function sukephoto(){
  document.getElementById('sukephoto').src=
  './image/sukekaitou.png';
   setTimeout("sukemodosi()",10000);
