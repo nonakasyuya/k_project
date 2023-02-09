@@ -1,4 +1,4 @@
-function sukekaitou(){
+function barukaitou(){
  if(document.getElementById('baruanswer').value=='1908'){
   alert('正解！');
  }
