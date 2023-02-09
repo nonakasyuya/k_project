@@ -2,7 +2,7 @@ function sukekaitou(){
  if(document.getElementById('sukeanswer').value=='81'){
   alert('正解！');
  }
-  else if(document.getElementById('sukeanswer').value=='８１'{
+  else if(document.getElementById('sukeanswer').value=='８１'){
   alert('正解！');
 }
   else{
