@@ -9,5 +9,5 @@ document.owari.saigo.value="最後までご覧いただき、ありがとうご�
 }
 
 function finish(){
-setInterval("owarinoaisatu()",500);
+setTimeout("owarinoaisatu()",500);
 }
