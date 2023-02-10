@@ -1,9 +1,9 @@
 function finish(){
-setTimeout("owarinoaisatu()",500);
+setInterval("owarinoaisatu()",500);
 }
 
 function owarinoaisatu(){
-var str="最後までご覧いただき、ありがとうございました";
+var str="ご覧いただき、ありがとうございました";
 var cnt=document.owari.saigo.value.length;
 if(cnt<22){
 document.owari.saigo.value=str.substr(0,cnt+1);}
